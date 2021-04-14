@@ -1,0 +1,2 @@
+# AutomationTestInvoiceBg
+AutomationTest           inv.bg
